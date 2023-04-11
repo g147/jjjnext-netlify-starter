@@ -1,15 +1,12 @@
 # Next + Netlify Starter
 
+<a href="https://twitter.com">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://in.scanfactory.io/assets/img/gh-img/twitter-inverted.png">
   <source media="(prefers-color-scheme: light)" srcset="https://in.scanfactory.io/assets/img/gh-img/twitter.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." height=20px>
 </picture>
-
-![GitHub-Mark-Dark](h#gh-dark-mode-only)
-
-![GitHub-Mark-Light]()
-
+</a>
 [![Netlify Status](https://api.netlify.com/api/v1/badges/46648482-644c-4c80-bafb-872057e51b6b/deploy-status)](https://app.netlify.com/sites/next-dev-starter/deploys)
 
 This is a [Next.js](https://nextjs.org/) v12 project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and set up to be instantly deployed to [Netlify](https://url.netlify.com/SyTBPVamO)!
