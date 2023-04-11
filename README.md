@@ -1,5 +1,5 @@
 # Next + Netlify Starter
-<a href="https://twitter.com">![GitHub-Mark-Light](https://in.scanfactory.io/assets/img/gh-img/twitter.png#gh-light-mode-only)![GitHub-Mark-Dark](https://in.scanfactory.io/assets/img/gh-img/twitter-inverted.png#gh-dark-mode-only)</a>
+<a href="https://twitter.com">![GitHub-Mark-Dark](https://in.scanfactory.io/assets/img/gh-img/twitter-inverted.png#gh-dark-mode-only)![GitHub-Mark-Light](https://in.scanfactory.io/assets/img/gh-img/twitter.png#gh-light-mode-only)</a>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/46648482-644c-4c80-bafb-872057e51b6b/deploy-status)](https://app.netlify.com/sites/next-dev-starter/deploys)
 
