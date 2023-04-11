@@ -1,6 +1,14 @@
 # Next + Netlify Starter
-![GitHub-Mark-Dark](https://in.scanfactory.io/assets/img/gh-img/twitter-inverted.png#gh-dark-mode-only)
-![GitHub-Mark-Light](https://in.scanfactory.io/assets/img/gh-img/twitter.png#gh-light-mode-only)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://in.scanfactory.io/assets/img/gh-img/twitter-inverted.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://in.scanfactory.io/assets/img/gh-img/twitter.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." height=20px>
+</picture>
+
+![GitHub-Mark-Dark](h#gh-dark-mode-only)
+
+![GitHub-Mark-Light]()
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/46648482-644c-4c80-bafb-872057e51b6b/deploy-status)](https://app.netlify.com/sites/next-dev-starter/deploys)
 
